@@ -35,3 +35,8 @@ Help – command tells you what the argument command does
 
 # 1.4 Forking and Cloning 
 
+First go to the Github repository page, click on Fork at the top right hand corner and select your own profile. Next open your command line terminal and find the directory you want to store the repository in (cd directory_name_1/…/… ). Type in “git clone [URL of your forked page]” and you are done.
+
+You fork a repository if you want to work on your own copy without permanently altering  the master copy. This way, you can experiment without fear. Worst case scenario, delete the forked copy and clone another.
+
+The challenge for setting up git and Github was practicing cloning and deleting. It took me a while to actually use the rm command comfortably.
