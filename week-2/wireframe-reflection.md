@@ -3,7 +3,7 @@
 ![alt text](imgs/blog-wireframe.png)
 
 What is a wireframe?
-It's a blueprint of what a webpage will look like.
+It's a blueprint of what the final webpage should look like.
 
 What are the benefits of wireframing?
 It lets you organize the informations you want to tell your viewers.
