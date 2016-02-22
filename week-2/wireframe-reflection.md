@@ -1,6 +1,6 @@
 ![alt text](imgs/homepage-wireframe.png)
 
-![alt text](imgs/blog_wireframe.png)
+![alt text](imgs/blog-wireframe.png)
 
 What is a wireframe?
 It's a blueprint of what a webpage will look like.
